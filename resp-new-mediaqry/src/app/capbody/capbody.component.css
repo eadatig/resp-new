@@ -1,0 +1,10 @@
+.capbdy {
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+}
+@media screen and (max-width: 600px) {
+    .cap-bdy {
+        width: 100%;     
+     }
+ }

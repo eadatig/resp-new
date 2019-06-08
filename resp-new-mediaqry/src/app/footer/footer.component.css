@@ -1,0 +1,21 @@
+.footr {
+    height: 100px;
+    width: 100%;
+    background-color: #000000;
+    margin-top: 0px;
+}
+.ft {
+    font-family: Roboto;
+    font-size: 40px;
+    color: #ffffff;
+    font-weight: 300;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+@media screen and (max-width: 600px) {
+    .footr {
+        width: 100%;
+        margin-top: 600px;    
+     }
+ }

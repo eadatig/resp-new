@@ -1,0 +1,15 @@
+.hdr {
+    height: 70px;
+    width: 100%;
+    background-color: #000000;
+    margin-top: 0px;
+}
+.ht {
+    font-family: Roboto;
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 500;
+    margin-top: 0px;
+    padding-top: 15px;
+    padding-left: 20px;
+}

@@ -1,0 +1,24 @@
+.cap-one {
+    height: 300px;
+    width: 33%;
+    margin-right: .5%;
+    margin-top: 0px;
+    background-color: #333333;
+    float: left;
+}
+.cpt {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+@media screen and (max-width: 600px) {
+    .cap-one {
+        width: 100%;
+        float: none;        
+     }
+ }

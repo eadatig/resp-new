@@ -1,0 +1,24 @@
+.cap-two {
+    height: 300px;
+    width: 33%;
+    margin-right: .5%;
+    margin-top: 0px;
+    background-color: #c60000;
+    float: left;
+}
+.cptw {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    color: #ffffff;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+@media screen and (max-width: 600px) {
+    .cap-two {
+        width: 100%;
+        float: none;        
+     }
+ }

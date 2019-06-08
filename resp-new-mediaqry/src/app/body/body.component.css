@@ -1,0 +1,15 @@
+.bigphoto {
+    height: 300px;
+    width: 100%;
+    background-color: #e7e7e7;
+    margin-top: 10px;
+}
+.bph {
+    font-family: Roboto;
+    font-size: 80px;
+    font-weight: 400;
+    color: #000000;
+    padding-top: 45px;
+    margin-top: 0px;
+    text-align: center;
+}

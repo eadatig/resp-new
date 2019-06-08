@@ -1,0 +1,23 @@
+.cap-three {
+    height: 300px;
+    width: 33%;
+    margin-top: 0px;
+    background-color: #ababab;
+    float: left;
+}
+.cpthree {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 300;
+    color: #000000;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+@media screen and (max-width: 600px) {
+    .cap-three {
+        width: 100%;
+        float: none;        
+     }
+ }
